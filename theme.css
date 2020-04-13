@@ -9,7 +9,7 @@ html {
 
 h1 {
   color: rgb(255, 129, 63);
-  font-weight: 100px;
+  font-weight: 100;
   font-family: avenir heavy,sans-serif;
 }
 
@@ -26,3 +26,4 @@ h1 {
   border-length: 16px;
   border-raidus: 4px;
   border-color: #333CFF;
+}
